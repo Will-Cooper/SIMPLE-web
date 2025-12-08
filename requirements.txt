@@ -10,7 +10,7 @@ numpy==1.26.4
 pandas==2.0.3
 pytest==8.3.4
 requests==2.32.4
-specutils==2.0.0
+specutils==2.2.0
 SQLAlchemy==2.0.38
 tqdm==4.67.1
 Werkzeug==3.1.4
