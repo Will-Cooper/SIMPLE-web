@@ -74,7 +74,7 @@ six==1.17.0
 soupsieve==2.6
 specutils==1.19.0
 SQLAlchemy==2.0.38
-tornado==6.4.2
+tornado==6.5
 tqdm==4.67.1
 typing_extensions==4.12.2
 tzdata==2025.1
