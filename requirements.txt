@@ -5,8 +5,8 @@ asdf_coordinates_schemas==0.3.0
 asdf_standard==1.1.1
 asdf_transform_schemas==0.5.0
 asdf_wcs_schemas==0.4.0
-astrodbkit==2.2
-astropy==5.3.4
+astrodbkit==2.5
+astropy==7.1.0
 astroquery==0.4.9.post1
 attrs==25.1.0
 backports.tarfile==1.2.0
@@ -72,7 +72,7 @@ SecretStorage==3.3.3
 semantic-version==2.10.0
 six==1.17.0
 soupsieve==2.6
-specutils==1.19.0
+specutils==2.0.0
 SQLAlchemy==2.0.38
 tornado==6.5
 tqdm==4.67.1
