@@ -29,7 +29,7 @@ Flask==3.1.1
 Flask-Cors==6.0.0
 Flask-WTF==1.2.2
 greenlet==3.1.1
-gwcs==0.21.0
+gwcs==0.26.1
 html5lib==1.1
 idna==3.10
 importlib_metadata==8.6.1
