@@ -175,7 +175,7 @@ def spectra_plot(query: str, db_file: str, night_sky_theme: Theme,
     for spec in t_spectra:
         try:
             # Manually convert the spectrum to a Spectrum object
-            spectrum = Spectrum.read(spec['access_url'], cache=False)
+            spectrum = Spectrum.read(spec['access_url'], cache=True)
         except Exception as e:
             print(f"Unable to read {spec['access_url']} as Spectrum. Error: {e}")
             continue
